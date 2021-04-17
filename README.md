@@ -3,7 +3,7 @@
 - My interests include: playing football:soccer: video games:video_game: socializing:smile: coding. :computer:
 - I enjoy learning from others, discovering new things and strive to always improve in whichever ways that I can both as a person and programmer.
 - Having faith and staying positive in life is key! 
-- Check out my profile website: https://github.com/peterokumbe17/peterokumbe17.io
+- Check out my profile website: https://peterokumbe17.github.io/
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
