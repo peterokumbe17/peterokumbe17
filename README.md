@@ -2,7 +2,7 @@
 - My name is Peter Okumbe and I am currently a final year BSc IT student at the University of Pretoria. :books:
 - My interests include: playing football:soccer: video games:video_game: socializing:smile: coding. :computer:
 - I enjoy learning from others, discovering new things and strive to always improve in whichever ways that I can both as a person and programmer.
-- Having faith and staying positive in life is key! 
+- Having faith:pray:and staying positive:heavy_plus_sign:in life is key!:key:
 - Check out my profile website: https://peterokumbe17.github.io/
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
