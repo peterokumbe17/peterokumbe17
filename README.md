@@ -1,6 +1,6 @@
 # Hello there! 👋
-- My name is Peter Okumbe and I am a BScHons Computer Science Graduate from the University of Pretoria and current Mendix Trainee at LINKITSYSTEMS South Africa. :books:
-- My interests include: playing football:soccer: video games:video_game: socializing:smile: coding. :computer:
+- My name is Peter Okumbe and I am a BScHons Computer Science Graduate from the University of Pretoria :books: and current Mendix Trainee at LINKITSYSTEMS South Africa. 💻
+- My interests include: football :soccer: video games :video_game: socializing 💬 coding :computer:
 - I enjoy learning from others, discovering new things and strive to always improve in whichever ways that I can, both as a person and in my field of expertise.
 - *"Failure is simply the opportunity to begin again, this time more intelligently."* - Henry Ford
 - Having faith:pray:and staying positive:heavy_plus_sign:in life is key!:key:
