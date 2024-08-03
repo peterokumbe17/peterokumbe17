@@ -3,7 +3,7 @@
 - My interests include: football :soccer: video games :video_game: socializing 💬 coding :computer:
 - I enjoy new discovery, learning from others, and I strive to continuously improve in whichever ways that I can with every opportunity given, both as a person and in my field of expertise.
 - *"Failure is simply the opportunity to begin again, this time more intelligently."* - Henry Ford
-- Having faith:pray:and staying positive:heavy_plus_sign:in life is key!:key:
+- Having faith :pray: and staying positive :heavy_plus_sign: in life is key! :key:
 - Check out my profile website: https://peterokumbe17.github.io/
 
 You can find me on [Facebook][1], [![Twitter][1.2]][2], or on [![LinkedIn][1.3]][3].
