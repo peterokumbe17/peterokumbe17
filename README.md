@@ -16,5 +16,5 @@ You can find me on [Facebook][1], [![Twitter][1.2]][2], or on [![LinkedIn][1.3]]
 <!-- Links to social media accounts -->
 
 [1]: https://facebook.com/peter.okumbe
-[2]: https://twitter.com/retep_ta1
+[2]: https://twitter.com/retep_741
 [3]: https://www.linkedin.com/in/peter-okumbe-65a887203/
