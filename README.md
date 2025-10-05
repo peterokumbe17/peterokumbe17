@@ -3,7 +3,7 @@
 - My interests include: Football :soccer: video games :video_game: movies 🎥 socializing 💬 numbers 🔢
 - Check out my profile website: https://peterokumbe17.github.io/
 
-You can find me on [![LinkedIn][1.3]][3], [Facebook][1], or on [![Twitter][1.2]][2].
+You can find me on [![LinkedIn][1.1]][3], [![Facebook][1.2]][1], or on [![Twitter][1.3]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/mendix-blue)
@@ -27,8 +27,9 @@ You can find me on [![LinkedIn][1.3]][3], [Facebook][1], or on [![Twitter][1.2]]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[1.3]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
+[1.1]: http://i.imgur.com/wWzX9uB.png
+[1.2]: https://raw.githubusercontent.com/peterokumbe17/peterokumbe17/main/linkedin-3-16.png
+[1.3]: https://raw.githubusercontent.com/peterokumbe17/peterokumbe17/main/facebook_16x16-icon-45593.png
 
 <!-- Links to social media accounts -->
 
