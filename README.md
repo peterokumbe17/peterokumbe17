@@ -1,7 +1,7 @@
 # Hello there! 👋
 - My name is Peter Okumbe and I am a BSc (Hons) Computer Science Graduate from the University of Pretoria :books: and current Mendix Developer at BRIS B.V. 💻
 - My interests include: Football :soccer: video games :video_game: movies 🎥 socializing 💬 numbers 🔢
-- Check out my profile website: https://peterokumbe17.github.io/
+- Check out my [profile website](https://peterokumbe17.github.io/)
 
 You can find me on [![LinkedIn][1.1]][1], [![Facebook][1.2]][2], or on [![Twitter][1.3]][3].
 
