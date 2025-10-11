@@ -6,11 +6,17 @@
 You can find me on [![LinkedIn][1.1]][1], [![Facebook][1.2]][2], or on [![Twitter][1.3]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/mendix-blue)
+![](https://img.shields.io/badge/Mendix-blue)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=dark-green)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=dark-green)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=dark-green)
+![](https://img.shields.io/badge/css-informational?style=flat&logo=css&logoColor=white&color=dark-green)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=dark-green)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=dark-green)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=dark-green)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=dark-green)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=dark-green)
+![](https://img.shields.io/badge/RestAPI-informational?style=flat&logo=restapi&logoColor=white&color=dark-green)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -21,9 +27,9 @@ You can find me on [![LinkedIn][1.1]][1], [![Facebook][1.2]][2], or on [![Twitte
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peterokumbe17&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Peter's GitHub Stats" />
 </a>
 
-<a href="https://github.com/peterokumbe17/advent-of-code">
+<!-- <a href="https://github.com/peterokumbe17/advent-of-code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peterokumbe17&repo=advent-of-code&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 
 <!-- Icons -->
 
